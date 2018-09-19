@@ -1,1 +1,3 @@
-C
+class Dog 
+  bark 
+end 
